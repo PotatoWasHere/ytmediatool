@@ -16,6 +16,7 @@ Programın Pardus ve diğer Linux sistemlerde sorunsuz çalışması için gerek
 
 Klasör içinde terminali açıp şu komutu çalıştırmanız yeterlidir:
 
+*chmod +x install_requirements.sh*
 *bash install_requirements.sh*
 
 Bu komut kurulumu tamamlayacak ve programı otomatik olarak başlatacaktır.
